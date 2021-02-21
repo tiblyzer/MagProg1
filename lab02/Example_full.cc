@@ -23,7 +23,7 @@ int main()
 	Graph_lib::Rectangle r{ Point{200,150}, 150, 100 };
 
 	Text t{ Point{150,150}, "Hello, graphical world!" };
-	Image ii{ Point{100,50},"mehecske.jpg" };
+	Image ii{ Point{100,50},"badge.jpg" };
 	
 	xa.set_color(Color::black);
 	ya.set_color(Color::black);
