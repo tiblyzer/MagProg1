@@ -177,7 +177,7 @@ std::ostream & operator << (std::ostream & s, const LIFO & lifo) {
   return(s);
 }
 
-/*int main(int argc, char **argv) {
+int main(int argc, char **argv) {
 
   LIFO stack;
 
@@ -204,4 +204,3 @@ std::ostream & operator << (std::ostream & s, const LIFO & lifo) {
 
   return(0);
 }
-*/
