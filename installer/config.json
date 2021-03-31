@@ -1,0 +1,26 @@
+{
+	"version": "1.0",
+	"files": {
+		"executable": "demoDraw.exe",
+		"library": "jpeg62.dll",
+		"library": "libfltk_images_SHAREDd.dll",
+		"library": "ligfltk_SHAREDd.dll",
+		"library": "libpng16d.dll",
+		"library": "zlibd.dll",
+		"config": "run.cfg",
+		"image": "circle.png",
+		"image": "rectangle.png",
+		"image": "triangle.png"
+	},
+	"directories": {
+		"BINDIR": "bin/",
+		"CFGDIR": "cfg/",
+		"IMGDIR": "imgs/"
+	},
+	"path_values": {
+		"EXE_PATH": "BINDIR",
+		"LIB_PATH": "LIBDIR",
+		"CFG_PATH": "CFGDIR",
+		"IMG_PATH": "IMGDIR"
+	}
+}
