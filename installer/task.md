@@ -27,7 +27,7 @@ Egyetlen bináris állomány tárolja a telepítendő állományok tartalmát. A
 A feladathoz hozzátartozik az állomány elkészítése is!
 Az állomány felépítését a következő ábra szemlélteti:
 
-![data.cab](https://github.com/tiblyzer/MagProg1/tree/main/installer/cab_structure.png)
+![data.cab](installer/cab_structure.png)
 
 
 ### Tervezési szempontok és elvárások
@@ -35,5 +35,5 @@ Az állomány felépítését a következő ábra szemlélteti:
 * Használjon minden az órán tanult programozási paradigmát (öröklődés, absztrakció, polimorfizmus, stb.).
 * A fájlok és könyvtárak kezelésére, a konfiguráció tárolására és a grafikus részekhez implementáljon külön-külön osztályokat, és használjon tárolókat is! 
 
-Az alkalmazás forrása nem állhat egyetlen main állományből, törekedjen a kód minél elemibb tagolására, különböző osztályok, forrásfájlok és header-ek használatára. 
+Az alkalmazás forrása nem állhat egyetlen main állományból, törekedjen a kód minél elemibb tagolására, különböző osztályok, forrásfájlok és header-ek használatára. 
 A megoldás az objektumorientáltság figyelmen kívül hagyásával elfogadtatlan lesz.
