@@ -27,7 +27,7 @@ Egyetlen bináris állomány tárolja a telepítendő állományok tartalmát. A
 A feladathoz hozzátartozik az állomány elkészítése is!
 Az állomány felépítését a következő ábra szemlélteti:
 
-![alt text](https://github.com/tiblyzer/MagProg1/tree/main/installer/cab_structure.png "data.cab format")
+![data.cab](https://github.com/tiblyzer/MagProg1/tree/main/installer/cab_structure.png "data.cab format")
 
 ### Tervezési szempontok és elvárások
 
