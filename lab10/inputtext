@@ -1,0 +1,5 @@
+Which operations? 
+Let’s assume that a document will fit in your computer’s main memory. 
+That way, we can choose any representation that suits us and simply convert it to a stream of bytes when we want to store it in a file. 
+Similarly, we can read a stream of bytes from a file and convert those to our in-memory representation. That decided, we can concentrate on choosing a convenient in-memory representation. 
+Basically, there are five things that our representation must support well:
